@@ -1,0 +1,243 @@
+go tools
+rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 2.4 MB Thu Apr  2 14:29:18 2026  anew
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 8.6 MB Thu Apr  2 13:59:12 2026  assetfinder
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 2.7 MB Thu Apr  2 14:25:08 2026  blocksort
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 3.4 MB Thu Apr  2 14:20:57 2026  cf-check
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  41 MB Thu Apr  2 14:25:04 2026  dnsx
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 8.6 MB Thu Apr  2 14:25:12 2026  fff
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 3.3 MB Thu Apr  2 14:22:27 2026  filter-resolved
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 3.4 MB Thu Apr  2 14:29:22 2026  gf
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  60 MB Thu Apr  2 14:29:16 2026  gowitness
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  69 MB Thu Apr  2 14:22:23 2026  httpx
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  14 MB Thu Apr  2 14:18:55 2026  ipinfo
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 8.3 MB Thu Apr  2 14:29:20 2026  meg
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  44 MB Thu Apr  2 14:24:10 2026  naabu
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  77 MB Thu Apr  2 14:27:54 2026  nuclei
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 2.6 MB Thu Apr  2 14:19:23 2026  qsreplace
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  42 MB Thu Apr  2 14:20:54 2026  subfinder
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it  16 MB Thu Apr  2 14:24:48 2026  subjack
+.rwxrwxr-x cyb3r3xpl0it cyb3r3xpl0it 8.6 MB Thu Apr  2 14:20:53 2026  waybackurls
+
+
+/opt
+├── AD
+│   ├── BloodHound
+│   ├── Certify
+│   ├── Ghostpack-CompiledBinaries
+│   ├── impacket
+│   ├── mimikatz
+│   ├── mitm6
+│   ├── nishang
+│   ├── Responder
+│   ├── Responder-old
+│   ├── rpcenum
+│   ├── Rubeus
+│   └── Salsa-tools
+├── apis
+│   ├── Arjun
+│   ├── jwt_tool
+│   ├── kiterunner
+│   ├── mitmproxy2swagger
+│   └── trufflehog
+├── BurpsuitePro
+│   ├── burp.ico
+│   ├── BurpLoaderKeygen.jar
+│   ├── BurpLoaderKeygen.jar_source_code.zip
+│   ├── burpsuite_pro_v2026.2.4.jar
+│   ├── hostfix_burp.bat
+│   ├── plugins
+│   ├── reset_license.bat
+│   └── reset_license.sh
+├── containerd
+│   ├── bin
+│   └── lib
+├── exploting
+│   ├── chisel
+│   ├── Cracking-Pack-Toolkit
+│   ├── dnstwist
+│   ├── Evil-Droid
+│   ├── ghauri
+│   ├── Hash-Buster
+│   ├── Hashcat-Utils
+│   ├── JohnTheRipper
+│   ├── LaZagne
+│   ├── LaZagneForensic
+│   ├── NoSQLMap
+│   ├── PasteZort
+│   ├── PEASS-ng
+│   ├── pentmenu
+│   ├── SqliSniper
+│   ├── TheFatRat
+│   ├── WaterDoS
+│   └── wwwolf-php-webshell
+├── go
+│   ├── api
+│   ├── bin
+│   ├── codereview.cfg
+│   ├── CONTRIBUTING.md
+│   ├── doc
+│   ├── go.env
+│   ├── lib
+│   ├── LICENSE
+│   ├── misc
+│   ├── PATENTS
+│   ├── pkg
+│   ├── README.md
+│   ├── SECURITY.md
+│   ├── src
+│   ├── test
+│   └── VERSION
+├── labs
+│   ├── awesome-vulnerable-apps
+│   ├── crAPI
+│   ├── damn-vulnerable-llm-agent
+│   ├── dvga
+│   ├── dvws-node
+│   ├── juice-shop
+│   ├── Pixi
+│   ├── rest-api-goat
+│   ├── VAmPI
+│   ├── vapi
+│   ├── VulnerabilitiesLab
+│   ├── VulnerableApp4APISecurity
+│   ├── Vulnerable-Lab-Installer
+│   ├── VulnLab
+│   └── websheep
+├── microsoft
+│   └── powershell
+├── nessus
+│   ├── bin
+│   ├── com
+│   ├── etc
+│   ├── lib
+│   ├── sbin
+│   └── var
+├── proxmark3
+│   ├── armsrc
+│   ├── AUTHORS.md
+│   ├── bootrom
+│   ├── CHANGELOG.md
+│   ├── client
+│   ├── common
+│   ├── common_arm
+│   ├── common_fpga
+│   ├── COMPILING.txt
+│   ├── CONTRIBUTING.md
+│   ├── covbuild.sh
+│   ├── covconfig.sh
+│   ├── covsubmit.sh
+│   ├── doc
+│   ├── docker
+│   ├── driver
+│   ├── fpga
+│   ├── include
+│   ├── LICENSE.txt
+│   ├── Makefile
+│   ├── Makefile.defs
+│   ├── Makefile.host
+│   ├── Makefile.platform.sample
+│   ├── pm3
+│   ├── pm3-flash
+│   ├── pm3-flash-all
+│   ├── pm3-flash-bootrom
+│   ├── pm3-flash-fullimage
+│   ├── README.md
+│   ├── recovery
+│   ├── SECURITY.md
+│   ├── tools
+│   └── traces
+├── recon
+│   ├── ax
+│   ├── bbht
+│   ├── crtndstry
+│   ├── dirsearch
+│   ├── dnstwist
+│   ├── domscan
+│   ├── JSParser
+│   ├── knock-dns
+│   ├── ksubdomain
+│   ├── lazyrecon
+│   ├── lazys3
+│   ├── legion
+│   ├── massdns
+│   ├── nmap-did-what
+│   ├── pafish
+│   ├── ParamSpider
+│   ├── pspy
+│   ├── rustscan
+│   ├── sqlifinder
+│   ├── subdomain-takeover
+│   ├── Subdominator
+│   ├── Sublist3r
+│   ├── teh_s3_bucketeers
+│   ├── virtual-host-discovery
+│   ├── webhackshl
+│   └── XSStrike
+└── wordlists
+
+
+
+drwxr-xr-x root         root         4.0 KB Tue Apr 28 12:58:02 2026  .
+drwxr-xr-x root         root          16 KB Tue Apr 28 12:44:15 2026  ..
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:13 2026  Active-Directory-Wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:36 2026  awesome-wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:43 2026  Billion-s-Wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:10 2026  bruteforce-database
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:15 2026  Bug-Bounty-Wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:35 2026  david-palma
+lrwxrwxrwx root         root          25 B  Tue Apr 28 12:58:01 2026  dirb ⇒ /usr/share/dirb/wordlists
+lrwxrwxrwx root         root          30 B  Tue Apr 28 12:58:01 2026  dirbuster ⇒ /usr/share/dirbuster/wordlists
+lrwxrwxrwx root         root          45 B  Tue Apr 28 12:58:01 2026  fern-wifi ⇒ /usr/share/fern-wifi-cracker/extras/wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:03 2026  fuzz
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:00 2026  fuzzdb
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:17 2026  fuzzdb-dup
+lrwxrwxrwx root         root          27 B  Tue Apr 28 12:58:02 2026  legion ⇒ /usr/share/legion/wordlists
+lrwxrwxrwx root         root          46 B  Tue Apr 28 12:58:02 2026  metasploit ⇒ /usr/share/metasploit-framework/data/wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:42 2026  OctaYus-Wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:02 2026  PayloadsAllTheThings
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:12 2026  Probable-Wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:18:58 2026  SecLists
+lrwxrwxrwx root         root          19 B  Tue Apr 28 12:58:02 2026  seclists ⇒ /usr/share/seclists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:19:18 2026  web-fuzz-wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:20:46 2026  webapp-wordlists
+lrwxrwxrwx root         root          25 B  Tue Apr 28 12:58:02 2026  wfuzz ⇒ /usr/share/wfuzz/wordlist
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:21 2026  WordList
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:12 2026  wordlists
+drwxr-xr-x root         root         4.0 KB Mon Mar 30 13:21:19 2026  wordlists-1
+.rw-r--r-- root         root          25 MB Mon Mar 30 13:21:45 2026  all.txt
+lrwxrwxrwx root         root          35 B  Tue Apr 28 12:58:01 2026  dnsmap.txt ⇒ /usr/share/dnsmap/wordlist_TLAs.txt
+lrwxrwxrwx root         root          41 B  Tue Apr 28 12:58:02 2026  fasttrack.txt ⇒ /usr/share/set/src/fasttrack/wordlist.txt
+lrwxrwxrwx root         root          28 B  Tue Apr 28 12:58:02 2026  john.lst ⇒ /usr/share/john/password.lst
+.rw-rw-r-- cyb3r3xpl0it cyb3r3xpl0it 9.1 GB Mon May  6 03:40:39 2019  kaonashi.txt
+.rw-rw-r-- cyb3r3xpl0it cyb3r3xpl0it 132 MB Mon May  6 02:03:12 2019  kaonashi14M.txt
+.rw-rw-r-- cyb3r3xpl0it cyb3r3xpl0it 1.0 GB Mon May  6 02:13:11 2019  kaonashiWPA100M.txt
+lrwxrwxrwx root         root          41 B  Tue Apr 28 12:58:02 2026  nmap.lst ⇒ /usr/share/nmap/nselib/data/passwords.lst
+.rw-r--r-- root         root          51 MB Tue Feb  3 01:57:14 2026  rockyou.txt.gz
+lrwxrwxrwx root         root          39 B  Tue Apr 28 12:58:02 2026  sqlmap.txt ⇒ /usr/share/sqlmap/data/txt/wordlist.txt
+lrwxrwxrwx root         root          37 B  Tue Apr 28 12:58:01 2026  wifite.txt ⇒ /usr/share/dict/wordlist-probable.txt
+
+
+
+insalll
+aquatone
+httpie
+docker
+ngrok
+paping
+jython
+jruby
+apktool
+go
+zsh-sudo
+bat
+lsd
+fd-find
+cargo
+
+powerlevel10k
+fzf
+ohmytmux
+nerdfonts
+
+
+kaonashi
